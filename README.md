@@ -13,7 +13,7 @@ The goal of this project was to build a clean blog preview component using only 
 
 ## 🔗 Links
 
-* 💻 **Solution URL:** https://github.com/Haco31/TU-REPOSITORIO
+* 💻 **Solution URL:** https://github.com/Haco31/blog-preview-card.git
 * 🌐 **Live Site URL:** https://haco31.github.io/blog-preview-card/
 
 ---
